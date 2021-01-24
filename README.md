@@ -9,7 +9,7 @@ Convert String into leetspeak or any custom alphabet
 
 ```js
 // import package
-const leetspeakify = require("leetspeakify");
+const leetspeakify = require("@mitsunee/leetspeakify");
 
 // Convert to leetspeak
 leetspeakify("Hello!"); // '|-|3|_|_0 \\/\\/0|2|_|)!'
