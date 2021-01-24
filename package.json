@@ -1,6 +1,6 @@
 {
   "name": "@mitsunee/leetspeakify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert String into leetspeak or any custom alphabet",
   "main": "src/leetspeakify.js",
   "scripts": {
