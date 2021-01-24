@@ -3,7 +3,7 @@ Convert String into leetspeak or any custom alphabet
 
 # Install
 
-`npm install leetspeakify`
+`npm install @mitsunee/leetspeakify`
 
 # Usage
 
