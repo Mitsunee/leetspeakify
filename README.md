@@ -3,6 +3,8 @@ Convert String into leetspeak or any custom alphabet
 
 Note: This is mostly a joke project. I'm using it as an example project to learn about publishing on npm.
 
+https://www.npmjs.com/package/@mitsunee/leetspeakify
+
 # Install
 
 `npm install @mitsunee/leetspeakify`
